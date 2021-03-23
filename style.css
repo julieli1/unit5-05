@@ -1,0 +1,17 @@
+#corps {
+  background-color: burlywood;
+}
+
+#titre {
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+}
+
+#answer {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
